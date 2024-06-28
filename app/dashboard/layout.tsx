@@ -8,7 +8,7 @@ const DashboardPage = ({
     children: React.ReactNode;
 }>) => {
     return (
-        <div>
+        <div >
             <div className="md:w-64 hidden md:block fixed">
                 <Navbar />
             </div>
